@@ -18,7 +18,7 @@ import java.util.List;
 @SuppressWarnings("Duplicates")
 @RestController
 @RequestMapping("/sqli")
-public class SQLI {
+public class SI {
 
     private static final Logger logger = LoggerFactory.getLogger(SQLI.class);
   
